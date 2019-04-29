@@ -1,0 +1,15 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 The 3D game that I found is called \'93Aragami\'94, made by Unity It has a very interesting visual effects of lights and shadows. These visual effects play an significant role in the game. The character the player gets to control has the ability of shadows. You are invisible to the enemies when you are in the shadow and visible to the enemies when you are exposed to the lights. You can also teleport from shadow to shadow to escape or get closer to your targets to assassinate them. The shadow can also be turned from regular shadows to \'93weaponry\'94 shadows; As it is shown in the screenshot, the shadow could be used as some sort of weapon (it is a dragon in the image) to attack the enemies. \
+\
+Like most games, your shadow energy is limited and can be consumed as you use them. When exposed to lights, the character starts to lose shadow energy and he cannot use any of his abilities when energy exhausted. Hence, the character needs to go back to shadow to recover his energy with the risks of being noticed by enemies. As this being said, the game play is based on the visual effects. It is true that many games focus on visual effects but this one strongly catches my attention as it really relies on its visual effects.\
+\
+The visual effects do change as the camera changes. The game uses a third-person view, and it introduces a new map by showing the whole map up in the sky. Therefore you can see different visual effect as the camera shoots from different angles. I think the visual effects are complicated to build. The visual effects interact with the motions of the character, so I think there must be many calculations behind the scene. Unfortunately I cannot find any papers or blog that evaluate the visual effects of Aragami and given my very limited Unity kills I do not think I can emulate them. \
+}
